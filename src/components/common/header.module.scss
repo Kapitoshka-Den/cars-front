@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  > div {
+    margin-top: 5px;
+  }
+}

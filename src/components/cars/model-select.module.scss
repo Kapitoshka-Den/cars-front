@@ -1,0 +1,8 @@
+.ant-select-selector {
+  &:where(.css-dev-only-do-not-override-1ck7fa5).ant-select-outlined:not(
+      .ant-select-disabled
+    ):not(.ant-select-customize-input):not(.ant-pagination-size-changer):hover
+    .ant-select-selector {
+    border-color: rgba(255, 81, 0, 0.6);
+  }
+}
